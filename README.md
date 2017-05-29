@@ -2,7 +2,7 @@
 > cnode第二次开发
 
 #线上地址[线上访问地址](https://lingfengxie.coding.me/Vue-Cnode/)
-#[扫码体验更好]<a href='//qr.api.cli.im/qr?data=https%253A%252F%252Flingfengxie.coding.me%252FVue-Cnode&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=b702b0d86dd5278bb705fd39a1fbd8c3' title='在线二维码生成器'><img src='//qr.api.cli.im/qr?data=https%253A%252F%252Flingfengxie.coding.me%252FVue-Cnode&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=b702b0d86dd5278bb705fd39a1fbd8c3' alt='在线二维码生成器' /></a>
+#[扫码体验更好](https://qr.api.cli.im/qr?data=https%253A%252F%252Flingfengxie.coding.me%252FVue-Cnode&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=b702b0d86dd5278bb705fd39a1fbd8c3)
 
 ## 注意：本项目只供学习，不可以商用。
 
