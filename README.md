@@ -2,7 +2,8 @@
 > cnode第二次开发
 
 #线上地址[线上访问地址](https://lingfengxie.coding.me/Vue-Cnode/)
-![扫码体验更好]<br>(./images/qcode.png)
+![扫码体验更好]  
+(./images/qcode.png)
 
 ## 注意：本项目只供学习，不可以商用。
 
